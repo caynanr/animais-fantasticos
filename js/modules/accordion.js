@@ -18,7 +18,7 @@ export default class Accordion {
     });
   }
 
-  //iniciar funcõa
+  //iniciar função
   init() {
     //ativar primeiro item
     this.toggleAccordion(this.accordionList[0]);
